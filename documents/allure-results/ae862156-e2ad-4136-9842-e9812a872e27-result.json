@@ -1,0 +1,133 @@
+{
+    "name": "Проверка отображения элементов экрана 'Любовь — это всё'",
+    "start": 1717910000324,
+    "stop": 1717910004960,
+    "stage": "finished",
+    "description": "Проверка корректности отображения всех элементов экрана 'Любовь — это всё'",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Загрузка приложения",
+            "start": 1717910000652,
+            "stop": 1717910000654,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Загрузка главного экрана",
+            "start": 1717910000812,
+            "stop": 1717910000812,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Загрузка главного экрана",
+            "start": 1717910004006,
+            "stop": 1717910004006,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажатие на кнопку 'Our Mission'",
+            "start": 1717910004011,
+            "stop": 1717910004011,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Элементы экрана - Love is all",
+            "start": 1717910004428,
+            "stop": 1717910004428,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "ae862156-e2ad-4136-9842-e9812a872e27",
+    "historyId": "3309099deb6b47edca99a1d9679cfcae",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.LoveIsAllTests.shouldVerifyLoveIsAllScreenElements",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.LoveIsAllTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldVerifyLoveIsAllScreenElements"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.LoveIsAllTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(1588)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
